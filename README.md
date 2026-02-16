@@ -1,2 +1,2 @@
-# GLPI-Manual-Install-Guide
-Installation manuelle de GLPI – Tutoriel complet
+# Installation manuelle de GLPI – Tutoriel complet
+
